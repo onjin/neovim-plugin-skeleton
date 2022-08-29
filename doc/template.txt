@@ -1,0 +1,21 @@
+================================================================================
+                                                               *template.nvim*
+
+This plugins sod asdfa qwefasdfasjkwejjasdjfqajwejasdjf  kj jkdjk jk jk jkj kj
+
+Some list:
+    1. asdfasdf
+    2. asdfasdf
+
+							   *template.function*
+
+template.function(some)
+
+	Some help: >
+
+		template.function(
+			...
+		)
+<
+
+ vim:tw=78:ts=8:ft=help:norl:
