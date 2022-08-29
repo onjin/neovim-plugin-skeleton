@@ -1,7 +1,7 @@
 -- luacheck: globals describe it
-describe("template", function()
+describe("skeleton", function()
 
   it("can be required", function()
-    require("template")
+    require("skeleton")
   end)
 end)

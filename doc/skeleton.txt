@@ -1,5 +1,5 @@
 ================================================================================
-                                                               *template.nvim*
+                                                               *skeleton.nvim*
 
 This plugins sod asdfa qwefasdfasjkwejjasdjfqajwejasdjf  kj jkdjk jk jk jkj kj
 
@@ -7,13 +7,13 @@ Some list:
     1. asdfasdf
     2. asdfasdf
 
-							   *template.function*
+							   *skeleton.function*
 
-template.function(some)
+skeleton.function(some)
 
 	Some help: >
 
-		template.function(
+		skeleton.function(
 			...
 		)
 <

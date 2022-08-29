@@ -1,2 +1,2 @@
 set rtp+=.
-runtime plugin/template.vim
+runtime plugin/skeleton.vim
